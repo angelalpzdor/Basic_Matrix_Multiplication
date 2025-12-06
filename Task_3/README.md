@@ -21,7 +21,7 @@ Matrices tested:
 ---
 
 ## File Structure
-
+bash ```
 │── src/
 │ ├── BaselineMatrix.java
 │ ├── ParallelMatrix.java
@@ -37,7 +37,7 @@ Matrices tested:
 │
 │── plot_results_task3.py
 │── README.md
-
+```
 
 ---
 

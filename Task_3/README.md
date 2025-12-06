@@ -51,7 +51,7 @@ From inside `Task_3/src/`:
 javac *.java
 2) Run the benchmark
 java BenchmarkTask3
-
+```
 
 This generates:
 

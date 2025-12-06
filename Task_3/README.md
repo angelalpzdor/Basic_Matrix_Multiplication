@@ -21,22 +21,23 @@ Matrices tested:
 ---
 
 ## File Structure
-bash ```
-│── src/
-│ ├── BaselineMatrix.java
-│ ├── ParallelMatrix.java
-│ ├── ParallelStreamMatrix.java
-│ ├── VectorizedMatrix.java
-│ └── BenchmarkTask3.java
+
+```text
+├── src/
+│   ├── BaselineMatrix.java
+│   ├── ParallelMatrix.java
+│   ├── ParallelStreamMatrix.java
+│   ├── VectorizedMatrix.java
+│   └── BenchmarkTask3.java
 │
-│── results/
-│ ├── task3_results.csv
-│ ├── time_plot.png
-│ ├── speedup_plot.png
-│ └── efficiency_plot.png
+├── results/
+│   ├── task3_results.csv
+│   ├── time_plot.png
+│   ├── speedup_plot.png
+│   └── efficiency_plot.png
 │
-│── plot_results_task3.py
-│── README.md
+├── plot_results_task3.py
+└── README.md
 ```
 
 ---
